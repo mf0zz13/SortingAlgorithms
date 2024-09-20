@@ -5,5 +5,4 @@ Some of us... or maybe all of us need to practice sorting algorithms from time t
 Implement the sorting algorithm associated with the method name. when completed run the unit tests to test your algorithm.
 
 # Future Features
-* Merge Sort
 * Quick Sort
